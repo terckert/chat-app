@@ -1,6 +1,4 @@
-# Programming Assignment 1 Stage 1 Report
-
-## CSE 489/589
+# Chat Program
 
 ### 1. Group and Contributions
 
